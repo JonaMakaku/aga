@@ -1,0 +1,79 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+background-color: PaleTurquoise;
+border-radius: 10px;
+margin: 5px;
+padding: 10px;
+}
+
+header a {
+    color: black;
+    background-color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 5px;
+    margin: 10px;
+}
+
+header img {
+ border-radius: 10px;
+ margin: 10px;
+}
+
+h1 {
+   background-color: PaleTurquoise;
+   color: blue;
+   border-radius: 10px;
+   padding: 5px;
+   text-align: center;
+   font-size: 25px;
+}
+
+footer {
+    background-color: #FFA07A;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+footer p {
+    background-color: white;
+    padding: 5px;
+}
+
+nav {
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid lightgray;
+}
+
+nav a {
+    margin: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(90, 90, 90)
+}
+
+.paint {
+    background-color: #FFA07A;
+    border-radius: 10px;
+    height: 70px;
+    width: 500px;
+    padding: 30px;
+    color: white;
+}
+
+.icon {
+    color: blue;
+}
+
+.light {
+    text-decoration: none;
+    border: 2px solid blue;
+    border-radius: 2px;
+    padding: 10px;
+    color: black;
+}
